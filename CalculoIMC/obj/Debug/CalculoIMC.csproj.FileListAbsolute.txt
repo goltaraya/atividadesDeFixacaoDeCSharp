@@ -1,0 +1,7 @@
+C:\Users\yagoa\Desktop\Coding\CSharp\AtividadesDeFixacao\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\yagoa\Desktop\Coding\CSharp\AtividadesDeFixacao\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\yagoa\Desktop\Coding\CSharp\AtividadesDeFixacao\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\yagoa\Desktop\Coding\CSharp\AtividadesDeFixacao\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csprojAssemblyReference.cache
+C:\Users\yagoa\Desktop\Coding\CSharp\AtividadesDeFixacao\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\yagoa\Desktop\Coding\CSharp\AtividadesDeFixacao\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\yagoa\Desktop\Coding\CSharp\AtividadesDeFixacao\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.pdb
